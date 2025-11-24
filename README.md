@@ -2,6 +2,8 @@
 
 This repository contains the source code for the NIELIT Ropar University web portal. It is a web-based project designed to provide comprehensive information regarding the university's academic programs, faculty, and administrative details.
 
+Visit Website: nielit.ac.in
+
 ## Overview
 
 The project serves as an informational hub for students and faculty, featuring details on various degree programs (B.Tech, M.Tech, PhD, Diploma), admission procedures, and campus news.
